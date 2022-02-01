@@ -1,2 +1,2 @@
 # Just learning shopify. 
-![Screenshot](https://github.com/kuolintoive/shopify/blob/master/public/current.PNG)
+<img src="https://github.com/kuolintoive/shopify/blob/master/public/current.PNG" width="1920" height="1080">
