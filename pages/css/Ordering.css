@@ -1,0 +1,27 @@
+#customer-nav-bar {
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid #7e7e7e;
+    padding: 5px;
+}
+
+#customer-nav-bar a {
+    color: white;
+    padding: 7.5px !important;
+    font-size: 13px;
+    flex-grow: 1;
+}
+
+#customer-nav-bar .dropdown {
+    display: flex;
+}
+
+#customer-nav-bar .dropdown > button {
+    background: none;
+    border: none;
+    font-size: 13px;
+}
+
+.customer-nav-currency-item {
+    color: black !important;
+}

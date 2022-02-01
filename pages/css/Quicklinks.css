@@ -1,0 +1,26 @@
+#quick-links {
+    display: flex;
+    background: #ECECEC;
+    justify-content: space-evenly;
+}
+
+.quick-link-item {
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    padding: 15px;
+    margin: 0;
+}
+
+.quick-link-item-title {
+    display: flex;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0;
+}
+
+.quick-link-item-desc {
+    font-size: 16px;
+    font-weight: lighter;
+    margin: 0;
+}
